@@ -1,8 +1,10 @@
 # O365.Documentor
 About
+-----
 A console application which documents an Office 365 SharePoint site.
 
 Getting Started
+---------------
 1. Download the files in the Deployment folder
 2. Edit the Sukul.O365.Documentor.exe.config
 3. Provide values for the following keys:
