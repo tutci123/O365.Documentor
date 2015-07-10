@@ -5,20 +5,24 @@ A console application which documents an Office 365 SharePoint site.
 
 Getting Started
 ---------------
-1. Download the files in the Deployment folder
-2. Edit the Sukul.O365.Documentor.exe.config
-3. Provide values for the following keys:
-  3.1 SiteCollectionURL - the url of the SharePoint site collection
-  3.2 UserId - user account to access the SharePoint site with. Needs to have admin access.
-  3.3 Password - password for the account above
-  3.4 OutputDirectory - directory where reports will be published
-  3.5 ContentTypeGroupName - the group name of content types to filter by
-  3.6 ColumnGroupName - the group name of site columns to filter by
-4. From the command line, run Sukul.O365.Documentor.exe and choose from the menus
+* Download the files in the Deployment folder
+* Edit the Sukul.O365.Documentor.exe.config
+* Provide values for the following keys:
 
+Key  | Description
+------------- | -------------
+SiteCollectionURL  | the url of the SharePoint site collection
+UserId  | user account to access the SharePoint site with. Needs to have admin access.
+Password | password for the account above
+OutputDirectory | directory where reports will be published
+ContentTypeGroupName | the group name of content types to filter by
+ColumnGroupName | the group name of site columns to filter by
+
+* From the command line, run Sukul.O365.Documentor.exe and choose from the menus
+![picture alt](http://pictures.sukul.org/blog/shailen/App.png "Office 365 Documentor")
 
 Enjoy!
-More reports comning as I find time.
+More reports will come as I find the time.
 
 Shailen Sukul
 @shailensukul
