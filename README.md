@@ -2,6 +2,7 @@
 About
 -----
 A console application which documents an Office 365 SharePoint site.
+Use instructions from [here](http://en.share-gate.com/blog/how-to-build-an-inventory-before-sharepoint-migration) to export sites data and create an org chart in Visio to represent your Site Collection visually.
 
 Getting Started
 ---------------
